@@ -1,12 +1,2 @@
-socket
-sys
 requests
-re
-subprocess
-colorama  
-Fore
-datetime
-time
 nmap
-secrets
-hashlib
